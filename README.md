@@ -1,4 +1,4 @@
-# The MAZE (Java)
+# Gravity
 
 A console-based maze navigation and logic game developed in Java. This project demonstrates the fundamental principles of **Data Structures** and **Object-Oriented Programming (OOP)** by implementing core mechanics from scratch without relying on built-in Java collection libraries.
 
